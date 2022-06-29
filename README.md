@@ -7,7 +7,7 @@ Watching the videos in the specified order is advisable to get the most of the m
   * Python Basics : 
     * Part1 : https://youtu.be/loJc6EUiuVI
     * Part2 : https://youtu.be/F70X_CosWIM
-   * NumPy : 
+   * NumPy : https://youtu.be/tF1qCqy6TLc
    * Pandas : 
    * Matplotlib :
    * Seaborn : 
