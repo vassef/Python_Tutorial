@@ -11,7 +11,7 @@ Watching the videos in the specified order is advisable to get the most of the m
    * Pandas : 
    * Matplotlib :
    * Seaborn : 
-   *SciPy :
+   * SciPy :
    
 # AUTHOR
 Shayan Vassef
