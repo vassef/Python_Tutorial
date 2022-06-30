@@ -4,6 +4,8 @@ Finally, we get to know deeper statistics and introduce you guys to the Scipy li
 Watching the videos in the specified order is advisable to get the most of the materials discussed. 
 
 # VIDEO
+You can find the related YouTube videos at the following links :
+
   * Python Basics : 
     * Part1 : https://youtu.be/loJc6EUiuVI
     * Part2 : https://youtu.be/F70X_CosWIM
