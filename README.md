@@ -7,13 +7,13 @@ Watching the videos in the specified order is advisable to get the most of the m
   * Python Basics : 
     * Part1 : https://youtu.be/loJc6EUiuVI
     * Part2 : https://youtu.be/F70X_CosWIM
-   * NumPy : https://youtu.be/tF1qCqy6TLc
-   * Pandas : https://youtu.be/KPPnR78tQcM
-   * Matplotlib : https://youtu.be/O2GT9ZlFZBY
-   * Seaborn : 
+  * NumPy : https://youtu.be/tF1qCqy6TLc
+  * Pandas : https://youtu.be/KPPnR78tQcM
+  * Matplotlib : https://youtu.be/O2GT9ZlFZBY
+  * Seaborn : 
     * Part1 : https://youtu.be/Hq1uszgvSkU
     * Part2 : https://youtu.be/MXrg8Q7dMPo
-   * SciPy : https://youtu.be/FxoZFDGH4BI
+  * SciPy : https://youtu.be/FxoZFDGH4BI
    
 # AUTHOR
 Shayan Vassef
